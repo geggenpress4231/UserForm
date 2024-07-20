@@ -1,0 +1,12 @@
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\bin\Debug\net6.0\Types.deps.json
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\bin\Debug\net6.0\Types.dll
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\bin\Debug\net6.0\Types.pdb
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.AssemblyInfoInputs.cache
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.AssemblyInfo.cs
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.csproj.CoreCompileInputs.cache
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.sourcelink.json
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.dll
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\refint\Types.dll
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\Types.pdb
+D:\medfar_assessment\Utsa-Rabbani\Backend\Types\obj\Debug\net6.0\ref\Types.dll
